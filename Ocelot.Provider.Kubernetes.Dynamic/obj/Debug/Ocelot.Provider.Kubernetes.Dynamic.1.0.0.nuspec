@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ocelot.Provider.Kubernetes.Dynamic</id>
+    <version>1.0.0</version>
+    <authors>Andrey Dodon</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Dynamic Kubernetes support for Ocelot with token-aware client rotation.</description>
+    <tags>ocelot kubernetes service-discovery aks kubeclient</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="KubeClient" version="3.0.2" exclude="Build,Analyzers" />
+        <dependency id="Ocelot.Provider.Kubernetes" version="23.4.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\bin\Debug\net8.0\Ocelot.Provider.Kubernetes.Dynamic.dll" target="lib\net8.0\Ocelot.Provider.Kubernetes.Dynamic.dll" />
+    <file src="C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\README.md" target="README.md" />
+  </files>
+</package>

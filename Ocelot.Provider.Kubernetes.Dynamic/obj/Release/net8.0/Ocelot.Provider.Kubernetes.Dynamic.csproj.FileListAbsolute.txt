@@ -1,0 +1,12 @@
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\bin\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.deps.json
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\bin\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.dll
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\bin\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.pdb
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.csproj.AssemblyReference.cache
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.AssemblyInfoInputs.cache
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.AssemblyInfo.cs
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.csproj.CoreCompileInputs.cache
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.dll
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\refint\Ocelot.Provider.Kubernetes.Dynamic.dll
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\Ocelot.Provider.Kubernetes.Dynamic.pdb
+C:\ws\POC\Dynamic\Ocelot.Provider.Kubernetes.Dynamic\Ocelot.Provider.Kubernetes.Dynamic\obj\Release\net8.0\ref\Ocelot.Provider.Kubernetes.Dynamic.dll
