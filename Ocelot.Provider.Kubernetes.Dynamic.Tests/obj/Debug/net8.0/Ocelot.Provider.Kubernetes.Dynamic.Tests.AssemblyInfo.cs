@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ocelot.Provider.Kubernetes.Dynamic.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308f672bb303f29f60df9067c37d92acb386a34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ocelot.Provider.Kubernetes.Dynamic.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ocelot.Provider.Kubernetes.Dynamic.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

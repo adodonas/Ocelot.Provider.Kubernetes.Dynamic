@@ -1,17 +1,24 @@
 # Ocelot.Provider.Kubernetes.Dynamic
 
-**Dynamic Kubernetes service discovery for Ocelot with automatic token rotation.**
+Dynamic Kubernetes service discovery for Ocelot with automatic token rotation.
 
-This package enhances the default [Ocelot.Provider.Kubernetes](https://www.nuget.org/packages/Ocelot.Provider.Kubernetes) by 
-allowing seamless token rotation support.
+This package extends [Ocelot.Provider.Kubernetes](https://www.nuget.org/packages/Ocelot.Provider.Kubernetes) by enabling seamless token refresh, 
+critical for AKS environments where service account tokens rotate hourly.
 
 ---
 
 ## Features
 
-- Dynamic Kubernetes API token rotation
-- Secure integration with `ca.crt` validation
-- Automatic client invalidation and refresh
-- Minimal configuration — plug and play with Ocelot
+- Auto-refresh for Kubernetes API tokens
+- Secure TLS support with `ca.crt`
+- Plug-and-play with Ocelot service discovery
+- Includes full unit test coverage
 
 ---
+
+## NuGet
+
+**Package**: [Ocelot.Provider.Kubernetes.Dynamic](https://www.nuget.org/packages/Ocelot.Provider.Kubernetes.Dynamic)
+
+```bash
+dotnet add package Ocelot.Provider.Kubernetes.Dynamic

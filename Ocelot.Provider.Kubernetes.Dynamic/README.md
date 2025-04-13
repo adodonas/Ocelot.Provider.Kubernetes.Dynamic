@@ -1,17 +1,34 @@
+
+---
 # Ocelot.Provider.Kubernetes.Dynamic
 
-**Dynamic Kubernetes service discovery for Ocelot with automatic token rotation.**
+---
 
-This package enhances the default [Ocelot.Provider.Kubernetes](https://www.nuget.org/packages/Ocelot.Provider.Kubernetes) by 
-allowing seamless token rotation support.
+## Highlights
+
+- Automatic detection of token rotation
+- Rebuilds Kubernetes API client transparently
+- Secure TLS validation with `ca.crt`
+- Minimal plug-and-play configuration
 
 ---
 
-## Features
+## Usage
 
-- Dynamic Kubernetes API token rotation
-- Secure integration with `ca.crt` validation
-- Automatic client invalidation and refresh
-- Minimal configuration — plug and play with Ocelot
+### In Program.cs
 
----
+```csharp
+builder.Services
+    .AddOcelot()
+    .AddDynamicKubernetes();
+```
+
+### In appsettings.json
+
+```json
+"Kubernetes": {
+  "ApiEndPoint": "https://kubernetes.default.svc",
+  "KubeNamespace": "default",
+  "AllowInsecure": false
+}
+```

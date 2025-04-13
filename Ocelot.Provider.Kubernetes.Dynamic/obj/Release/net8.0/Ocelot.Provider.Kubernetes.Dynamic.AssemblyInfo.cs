@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Dynamic Kubernetes support for Ocelot with token-aware client rotation.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308f672bb303f29f60df9067c37d92acb386a34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ocelot.Provider.Kubernetes.Dynamic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ocelot.Provider.Kubernetes.Dynamic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
